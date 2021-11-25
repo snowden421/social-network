@@ -1,0 +1,26 @@
+{
+    "name": "social-network",
+    "version": "1.0.0",
+    "description": "A social network API",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/snowden421/social-network.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/snowden421/social-network/issues"
+    },
+    "homepage": "https://github.com/snowden421/social-network#readme",
+    "dependencies": {
+      "express": "^4.17.1",
+      "moment": "^2.29.1",
+      "mongoose": "^6.0.11"
+    }
+  }
+  
